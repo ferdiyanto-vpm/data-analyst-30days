@@ -18,5 +18,8 @@ Merefresh skill data analyst dan membangun 2 portofolio.
 
 ## Progress
 - [x] Hari 1: Setup & Roadmap
-- [ ] Hari 2: Excel/Sheets refresh
-- [ ] Hari 3: SQL dasar
+- [x] Hari 2: Excel/Sheets refresh
+- [x] Hari 3: SQL dasar
+- [x] Hari 4: SQL join
+- [x] Hari 5: SQL sub_query CTE window 
+- [x] Hari 6: Studi Kasus
