@@ -1,0 +1,9 @@
+id,produk,kategori,harga,qty,kota
+TRX001,Laptop,Elektronik,12000000,2,Jakarta
+TRX002,Mouse,Elektronik,150000,5,Bandung
+TRX003,Kaos,Fashion,120000,3,Jakarta
+TRX004,Monitor,Elektronik,2000000,1,Surabaya
+TRX005,Sepatu,Fashion,800000,2,Bandung
+TRX006,Keyboard,Elektronik,350000,3,Jakarta
+TRX007,Tas,Fashion,450000,4,Surabaya
+TRX008,Meja,Furnitur,1500000,1,Jakarta
